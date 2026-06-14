@@ -12,6 +12,10 @@
    1. [مفردات المستوى A2 / Level A2 Vocabulary](#مفردات-المستوى-a2--level-a2-vocabulary)
    2. [قواعد المستوى A2 / Level A2 Grammar](#قواعد-المستوى-a2--level-a2-grammar)
 4. [مراجع سريعة / Quick References](#مراجع-سريعة--quick-references)
+   1. [الأرقام / Numbers](#الأرقام--numbers)
+   2. [الألوان / Colors](#الألوان--colors)
+   3. [الأفعال المنتظمة / Regular Verbs](#الأفعال-المنتظمة--regular-verbs)
+   4. [الأفعال غير المنتظمة / Irregular Verbs](#الأفعال-غير-المنتظمة--irregular-verbs)
 
 ---
 
@@ -679,6 +683,151 @@ Subject + have / has + Past Participle
 | orange | برتقالي |
 | purple | بنفسجي |
 | gray | رمادي |
+
+---
+
+### الأفعال المنتظمة / Regular Verbs
+| الأساسي / Base | المضارع للثالث مفرد / Present (he/she/it) | الماضي / Past | المضارع المستمر / Present Continuous | العربية / Arabic |
+|----------------|---------------------------------------------|--------------|-------------------------------------|------------------|
+| play | plays | played | playing | يلعب |
+| walk | walks | walked | walking | يمشي |
+| talk | talks | talked | talking | يتحدث |
+| work | works | worked | working | يعمل |
+| help | helps | helped | helping | يساعد |
+| clean | cleans | cleaned | cleaning | ينظف |
+| wash | washes | washed | washing | يغسل |
+| watch | watches | watched | watching | يشاهد |
+| listen | listens | listened | listening | يستمع |
+| study | studies | studied | studying | يدرس |
+| practice | practices | practiced | practicing | يمارس |
+| visit | visits | visited | visiting | يزور |
+| travel | travels | traveled | traveling | يسافر |
+| cook | cooks | cooked | cooking | يطبخ |
+| dance | dances | danced | dancing | يرقص |
+| want | wants | wanted | wanting | يريد |
+| like | likes | liked | liking | يحب |
+| love | loves | loved | loving | يحب (مشعل) |
+| need | needs | needed | needing | يحتاج |
+| call | calls | called | calling | يتصل / يدعو |
+
+---
+
+### الأفعال غير المنتظمة / Irregular Verbs
+| الأساسي / Base | المضارع للثالث مفرد / Present (he/she/it) | الماضي / Past | التام / Past Participle | المضارع المستمر / Present Continuous | العربية / Arabic |
+|----------------|---------------------------------------------|--------------|-----------------------|-------------------------------------|------------------|
+| be | is | was/were | been | being | يكون |
+| have | has | had | had | having | يملك / يأكل (وجبة) |
+| do | does | did | done | doing | يفعل |
+| go | goes | went | gone | going | يذهب |
+| see | sees | saw | seen | seeing | يرى |
+| eat | eats | ate | eaten | eating | يأكل |
+| drink | drinks | drank | drunk | drinking | يشرب |
+| sleep | sleeps | slept | slept | sleeping | ينام |
+| get | gets | got | got / gotten | getting | يحصل / يأخذ |
+| buy | buys | bought | bought | buying | يشتري |
+| sell | sells | sold | sold | selling | يبيع |
+| give | gives | gave | given | giving | يعطي |
+| take | takes | took | taken | taking | يأخذ |
+| make | makes | made | made | making | يصنع |
+| come | comes | came | come | coming | يأتي |
+| go | goes | went | gone | going | يذهب |
+| write | writes | wrote | written | writing | يكتب |
+| read | reads | read | read | reading | يقرأ |
+| say | says | said | said | saying | يقول |
+| speak | speaks | spoke | spoken | speaking | يتحدث (لغة) |
+| tell | tells | told | told | telling | يقول / يروي |
+| hear | hears | heard | heard | hearing | يسمع |
+| know | knows | knew | known | knowing | يعلم / يعرف |
+| think | thinks | thought | thought | thinking | يفكر |
+| understand | understands | understood | understood | understanding | يفهم |
+| learn | learns | learned / learnt | learned / learnt | learning | يتعلم |
+| teach | teaches | taught | taught | teaching | يدرّس |
+| meet | meets | met | met | meeting | يلتقي |
+| find | finds | found | found | finding | يجد |
+| lose | loses | lost | lost | losing | يخسر |
+| leave | leaves | left | left | leaving | يغادر |
+| keep | keeps | kept | kept | keeping | يحافظ |
+| hold | holds | held | held | holding | يحتمل / يمسك |
+| let | lets | let | let | letting | يسمح |
+| put | puts | put | put | putting | يضع |
+| set | sets | set | set | setting | يحدد |
+| sit | sits | sat | sat | sitting | يجلس |
+| stand | stands | stood | stood | standing | يقف |
+| lie | lies | lay / lied | lain / lied | lying | يستلقي / يكذب |
+| run | runs | ran | run | running | يركض |
+| swim | swims | swam | swum | swimming | يسبح |
+| fly | flies | flew | flown | flying | يطير |
+| drive | drives | drove | driven | driving | يقود |
+| ride | rides | rode | ridden | riding | يركب |
+| fly | flies | flew | flown | flying | يطير |
+| forget | forgets | forgot | forgotten | forgetting | ينسى |
+| remember | remembers | remembered | remembered | remembering | يتذكر |
+| feel | feels | felt | felt | feeling | يشعر |
+| become | becomes | became | become | becoming | يصبح |
+| begin | begins | began | begun | beginning | يبدأ |
+| break | breaks | broke | broken | breaking | يكسر |
+| bring | brings | brought | brought | bringing | يأتي ب |
+| catch | catches | caught | caught | catching | يمسك / يلاقي |
+| choose | chooses | chose | chosen | choosing | يختار |
+| cut | cuts | cut | cut | cutting | يقطع |
+| draw | draws | drew | drawn | drawing | يرسم |
+| dream | dreams | dreamed / dreamt | dreamed / dreamt | dreaming | يحلم |
+| fight | fights | fought | fought | fighting | يقاتل |
+| forget | forgets | forgot | forgotten | forgetting | ينسى |
+| get | gets | got | got / gotten | getting | يحصل / يأخذ |
+| give | gives | gave | given | giving | يعطي |
+| go | goes | went | gone | going | يذهب |
+| grow | grows | grew | grown | growing | ينمو |
+| hang | hangs | hung / hanged | hung / hanged | hanging | يعلق |
+| hear | hears | heard | heard | hearing | يسمع |
+| hide | hides | hid | hidden | hiding | يخفي |
+| hit | hits | hit | hit | hitting | يضرب |
+| hold | holds | held | held | holding | يحتمل / يمسك |
+| hurt | hurts | hurt | hurt | hurting | يجرح / يصاب |
+| keep | keeps | kept | kept | keeping | يحافظ |
+| know | knows | knew | known | knowing | يعلم / يعرف |
+| lay | lays | laid | laid | laying | يضع |
+| lead | leads | led | led | leading | يقود |
+| learn | learns | learned / learnt | learned / learnt | learning | يتعلم |
+| leave | leaves | left | left | leaving | يغادر |
+| let | lets | let | let | letting | يسمح |
+| lie | lies | lay / lied | lain / lied | lying | يستلقي / يكذب |
+| lose | loses | lost | lost | losing | يخسر |
+| make | makes | made | made | making | يصنع |
+| mean | means | meant | meant | meaning | يعني |
+| meet | meets | met | met | meeting | يلتقي |
+| pay | pays | paid | paid | paying | يدفع |
+| put | puts | put | put | putting | يضع |
+| read | reads | read | read | reading | يقرأ |
+| ride | rides | rode | ridden | riding | يركب |
+| ring | rings | rang | rung | ringing | يقرع / يلقي دعوة |
+| rise | rises | rose | risen | rising | يرتفع |
+| run | runs | ran | run | running | يركض |
+| say | says | said | said | saying | يقول |
+| see | sees | saw | seen | seeing | يرى |
+| sell | sells | sold | sold | selling | يبيع |
+| send | sends | sent | sent | sending | يرسل |
+| set | sets | set | set | setting | يحدد |
+| shake | shakes | shook | shaken | shaking | يهز |
+| show | shows | showed | shown / showed | showing | يظهر |
+| shut | shuts | shut | shut | shutting | يغلق |
+| sing | sings | sang | sung | singing | يغني |
+| sit | sits | sat | sat | sitting | يجلس |
+| sleep | sleeps | slept | slept | sleeping | ينام |
+| speak | speaks | spoke | spoken | speaking | يتحدث |
+| spend | spends | spent | spent | spending | يقضي / ينفق |
+| stand | stands | stood | stood | standing | يقف |
+| swim | swims | swam | swum | swimming | يسبح |
+| take | takes | took | taken | taking | يأخذ |
+| teach | teaches | taught | taught | teaching | يدرّس |
+| tell | tells | told | told | telling | يقول / يروي |
+| think | thinks | thought | thought | thinking | يفكر |
+| throw | throws | threw | thrown | throwing | يرمي |
+| understand | understands | understood | understood | understanding | يفهم |
+| wake | wakes | woke | woken | waking | يستيقظ |
+| wear | wears | wore | worn | wearing | يلبس |
+| win | wins | won | won | winning | يفوز |
+| write | writes | wrote | written | writing | يكتب |
 
 ---
 
