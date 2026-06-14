@@ -365,8 +365,11 @@ Welcome to this complete summary of your English course from Beginner (A1) to El
 
 #### 3. الضمائر المالكة / Possessives
 تستخدم هذه الضمائر لتعرف ملكية الأشياء!
-| الضمير / Subject | الضمير المالك / Possessive | مثال / Example | العربية / Arabic |
-|------------------|---------------------------|----------------|------------------|
+
+**الضمائر المالكة الموصوفة (Possessive Adjectives - before noun):**
+تأتي قبل الاسم لتعرف ملكيته!
+| الضمير / Subject | الضمير الموصوف / Possessive Adjective | مثال / Example | العربية / Arabic |
+|------------------|-------------------------------------|----------------|------------------|
 | I | my | This is my book. → هذا كتابي. | لي |
 | You | your | Is this your pen? → هل هذا قلمك؟ | لك |
 | He | his | That is his car. → تلك سيارته. | له |
@@ -374,6 +377,20 @@ Welcome to this complete summary of your English course from Beginner (A1) to El
 | It | its | The dog is in its bed. → الكلب في سريره. | له / لها |
 | We | our | Our house is big. → منزلنا كبير. | لنا |
 | They | their | Their names are Ali and Omar. → أسماؤهم علي وعمر. | لهم |
+
+---
+
+**الضمائر المالكة المستقلة (Possessive Pronouns - replace noun):**
+تستخدم بدلاً من الاسم لتجنب التكرار!
+| الضمير / Subject | الضمير المستقل / Possessive Pronoun | مثال / Example | العربية / Arabic |
+|------------------|----------------------------------|----------------|------------------|
+| I | mine | This book is mine. → هذا الكتاب لي. | لي |
+| You | yours | Is this pen yours? → هل هذا القلم لك؟ | لك |
+| He | his | That car is his. → تلك السيارة له. | له |
+| She | hers | That bag is hers. → تلك الحقيبة لها. | لها |
+| It | its | (uncommon) | (غير شائع) |
+| We | ours | This house is ours. → هذا المنزل لنا. | لنا |
+| They | theirs | Those books are theirs. → تلك الكتب لهم. | لهم |
 
 ---
 
@@ -455,12 +472,36 @@ Subject + am/is/are + going to + Base Verb
 
 ---
 
-#### 8. "Can / Can't" (القدرة) / Modals (Ability)
-نستخدم "can" للحديث عن الأشياء التي نستطيع أن نفعلها، و"can't" لما لا نستطيع!
-- I **can** swim. → أنا أستطيع السباحة.
-- She **can** speak Arabic. → هي تستطيع التحدث العربية.
-- He **can't** ride a bike. → هو لا يستطيع ركوب الدراجة.
-- Can you play football? → هل تستطيع لعب كرة القدم؟
+#### 8. "Can / Can't" (القدرة والإذن) / Modals (Ability & Permission)
+- **القدرة (Ability):** نستخدم "can" للحديث عن الأشياء التي نستطيع أن نفعلها، و"can't" لما لا نستطيع!
+  - I **can** swim. → أنا أستطيع السباحة.
+  - She **can** speak Arabic. → هي تستطيع التحدث العربية.
+  - He **can't** ride a bike. → هو لا يستطيع ركوب الدراجة.
+  - Can you play football? → هل تستطيع لعب كرة القدم؟
+- **الإذن (Permission):** نستخدم "can" أو "could" (أكثر مهذبة) لطلب إذن أو إعطائه!
+  - Can I go to the bathroom? → هل أستطيع الذهاب إلى الحمام؟
+  - You can't park here. → لا يمكنك الوقوف هنا.
+
+---
+
+#### 9. أدوات الربط (Conjunctions)
+تستخدم لربط جمل أو أجزاء جمل مع بعضها البعض!
+| الإنجليزية / English | العربية / Arabic | شرح / Explanation | مثال / Example |
+|----------------------|------------------|-------------------|----------------|
+| and | و | لربط شيئين متشابهين أو متعالقين | I like apples **and** oranges. → أنا أحب التفاح والبرتقال. |
+| but | لكن | لتقديم خلاف أو تباين | I like coffee **but** I don't like tea. → أنا أحب القهوة لكن لا أحب الشاي. |
+| because | لأنه / لأن | لشرح سبب أو دليل | I'm happy **because** I passed the exam. → أنا سعيد لأنه نجحت في الامتحان. |
+| so | لذلك / إذن | لتقديم نتيجة أو نتيجة | It was cold, **so** I wore a jacket. → كان الجو بارد، لذلك ارتدت سترة. |
+
+---
+
+#### 10. بناء الجملة (Sentence Structure)
+الترتيب الأساسي للكلمات في الجملة الإنجليزية هو **Subject (الموضوع) → Verb (الفعل) → Object (المفعول به)**!
+| النوع / Type | التركيب / Structure | مثال / Example | العربية / Arabic |
+|-------------|---------------------|----------------|------------------|
+| الجملة الخبرية (Affirmative) | Subject + Verb + Object | I eat rice. → أنا أأكل الأرز. | أنا أأكل الأرز. |
+| الجملة السلبية (Negative) | Subject + Don't/Doesn't + Base Verb | I don't eat rice. → أنا لا أأكل الأرز. | أنا لا أأكل الأرز. |
+| الجملة الاستفهام (Question) | Do/Does + Subject + Base Verb? | Do you eat rice? → هل تأكل الأرز؟ | هل تأكل الأرز؟ |
 
 ---
 
@@ -1066,7 +1107,65 @@ Subject + have / has + Past Participle (التام)
 
 ---
 
-## 📚 مراجع سريعة / Quick References
+## � استراتيجيات وظيفية وتواصلية / Functional & Communicative Strategies
+هذه هي العبارات والاستراتيجيات التي تساعدك على التحدث بشكل طبيعي وتفاعل مع الآخرين في الحياة اليومية!
+
+---
+
+### 1. طلب التوضيح (Asking for Clarification)
+عندما لا تفهم شيء أو تريد تكرار ما قيل!
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| Pardon me? | من فضلك؟ / سمحت؟ |
+| Can you repeat that, please? | هل يمكنك تكرار ذلك من فضلك؟ |
+| Sorry, I didn't catch that. | آسف، لم أفهم ذلك. |
+| What does [word] mean? | ماذا تعني [كلمة]؟ |
+| Can you speak more slowly, please? | هل يمكنك التحدث أبطأ من فضلك؟ |
+
+---
+
+### 2. التعبير عن الرأي (Expressing Opinions)
+عندما تريد إخبار رأيك أو موافقة/عدم موافقة على شيء!
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| I think... | أعتقد أن... |
+| In my opinion... | برأيي... |
+| I agree. | أنا موافق. |
+| I disagree. | أنا غير موافق. |
+| I think so too. | أنا أعتقد كذلك أيضاً. |
+| I don't think so. | أنا لا أعتقد ذلك. |
+
+---
+
+### 3. الاستئذان والطلبات المهذبة (Making Polite Requests)
+عندما تريد طلب شيء أو استئذان لفعل شيء!
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| Could I...? | هل يمكن لي أن...؟ |
+| Would you mind...? | هل تمانع من...؟ |
+| Can you...? | هل يمكنك...؟ |
+| May I...? | هل أستطيع أن...؟ |
+| Could you pass me the salt, please? | هل يمكنك تمرير الملح لي من فضلك؟ |
+| Would you mind closing the window? | هل تمانع من إغلاق النافذة؟ |
+
+---
+
+### 4. الاعتذار والرد عليه (Apologizing & Responding)
+عندما تريد الاعتذار أو الرد على اعتذار!
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| I'm sorry. | أنا آسف. |
+| I'm sorry I'm late. | آسف لأني متأخر. |
+| It's my fault. | هذا خطئي. |
+| That's alright. / It's okay. | لا بأس. / حسنًا. |
+| No problem. / Don't worry about it. | لا مشكلة. / لا تقلق بخصوص ذلك. |
+| Apology accepted. | الاعتذار مقبول. |
+
+---
+
+---
+
+## �� مراجع سريعة / Quick References
 
 ### 📊 الأرقام / Numbers
 | الإنجليزية / English | العربية / Arabic |
