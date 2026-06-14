@@ -333,24 +333,31 @@ Welcome to this complete summary of your English course from Beginner (A1) to El
 #### 4. الزمن المضارع البسيط / Present Simple
 نستخدمه للحديث عن الحقائق الثابتة أو العادات اليومية!
 
+##### 📌 قاعدة إضافة "s" أو "es" لـ (he, she, it) (Rules for adding "-s" or "-es")
+| الحالة / Case | القاعدة / Rule | أمثلة / Examples |
+|---------------|---------------|------------------|
+| **الحالة 1: الفعل العادي (Most verbs)** | نضيف فقط "s"! | play → plays, read → reads, eat → eats |
+| **الحالة 2: الفعل ينتهي بـ (s, ss, sh, ch, x, o)** | نضيف "es"! | wash → washes, watch → watches, go → goes, do → does, fix → fixes, teach → teaches |
+| **الحالة 3: الفعل ينتهي بـ (consonant + y)** | نحذف "y" و نضيف "ies"! | study → studies, fly → flies, try → tries |
+
 ##### الإيجابي / Positive
 | القاعدة / Rule | مثال / Example |
 |---------------|----------------|
 | لـ (I, you, we, they): نستخدم الفعل الأساسي! | I study English every day. → أنا أدرس الإنجليزية كل يوم. They play football on Fridays. → هم يلعبون كرة القدم يوم الجمعاء. |
-| لـ (he, she, it): نضيف "s" أو "es" في نهاية الفعل! | She goes to school at 8. → هي تذهب إلى المدرسة الساعة 8. He watches TV every evening. → هو يشاهد التلفاز كل مساء. It rains in winter. → تمطر في الشتاء. |
+| لـ (he, she, it): نضيف "s" أو "es" (حسب القواعد السابقة)! | She goes to school at 8. → هي تذهب إلى المدرسة الساعة 8. He watches TV every evening. → هو يشاهد التلفاز كل مساء. It rains in winter. → تمطر في الشتاء. He studies math. → هو يدرس الرياضيات. |
 
 ##### السلبي / Negative
 | القاعدة / Rule | مثال / Example |
 |---------------|----------------|
-| لـ (I, you, we, they): نستخدم "don't" قبل الفعل! | I don't like math. → أنا لا أحب الرياضيات. We don't go to school on Saturdays. → نحن لا نذهب إلى المدرسة يوم السبت. |
-| لـ (he, she, it): نستخدم "doesn't" قبل الفعل! | He doesn't watch TV. → هو لا يشاهد التلفاز. She doesn't like coffee. → هي لا تحب القهوة. |
+| لـ (I, you, we, they): نستخدم "don't" + الفعل الأساسي! | I don't like math. → أنا لا أحب الرياضيات. We don't go to school on Saturdays. → نحن لا نذهب إلى المدرسة يوم السبت. |
+| لـ (he, she, it): نستخدم "doesn't" + الفعل الأساسي! **(ملاحظة: نستخدم الفعل الأساسي بعد "doesn't"، لا نضيف "s" أو "es"!)** | He doesn't watch TV. → هو لا يشاهد التلفاز. She doesn't like coffee. → هي لا تحب القهوة. He doesn't study math. → هو لا يدرس الرياضيات. |
 
 ##### الأسئلة / Questions
 | القاعدة / Rule | مثال / Example |
 |---------------|----------------|
-| لـ (I, you, we, they): نبدأ بـ "Do"! | Do you like English? → هل تحب الإنجليزية? Do they study at home? → هل يدرسون في المنزل؟ |
-| لـ (he, she, it): نبدأ بـ "Does"! | Does she study math? → هل تدرس هي الرياضيات? Does he like football? → هل يحب هو كرة القدم؟ |
-| **أرأى Wh:** What / Where / When + Do/Does + Subject + Verb? | Where do you live? → أين تسكن؟ When does he go to school? → متى يذهب إلى المدرسة؟ |
+| لـ (I, you, we, they): نبدأ بـ "Do" + الفعل الأساسي! | Do you like English? → هل تحب الإنجليزية? Do they study at home? → هل يدرسون في المنزل؟ |
+| لـ (he, she, it): نبدأ بـ "Does" + الفعل الأساسي! **(ملاحظة: نستخدم الفعل الأساسي بعد "Does"، لا نضيف "s" أو "es"!)** | Does she study math? → هل تدرس هي الرياضيات? Does he like football? → هل يحب هو كرة القدم؟ Does it rain in winter? → هل تمطر في الشتاء؟ |
+| **أرأى Wh:** What / Where / When + Do/Does + Subject + Verb? | Where do you live? → أين تسكن؟ When does he go to school? → متى يذهب إلى المدرسة؟ What does she like? → ماذا تحب؟ |
 
 ---
 
@@ -366,6 +373,13 @@ Welcome to this complete summary of your English course from Beginner (A1) to El
 #### 6. الزمن المضارع المستمر / Present Continuous
 نستخدمه للحديث عن الأشياء التي تحدث الآن، في هذه اللحظة!
 
+##### 📌 قاعدة إضافة "ing" (Rules for adding "-ing")
+| الحالة / Case | القاعدة / Rule | أمثلة / Examples |
+|---------------|---------------|------------------|
+| **الحالة 1: الفعل العادي (Most verbs)** | نضيف فقط "ing"! | play → playing, read → reading, eat → eating |
+| **الحالة 2: الفعل ينتهي بـ (e)** | نحذف "e" و نضيف "ing"! | write → writing, dance → dancing, make → making |
+| **الحالة 3: الفعل بنمط (Consonant + Vowel + Consonant) و هو فعل قصير (one syllable)** | نضطرب الحرف الأخير ثم نضيف "ing"! | run → running, swim → swimming, sit → sitting |
+
 ##### التكوين / Form
 Subject + am/is/are + Verb-ing
 
@@ -373,6 +387,8 @@ Subject + am/is/are + Verb-ing
 - I **'m reading** a book now. → أنا أقرأ كتاب الآن.
 - She **'s listening** to music. → هي تستمع إلى الموسيقى الآن.
 - They **'re playing** football. → هم يلعبون كرة القدم الآن.
+- He **'s sitting** at the desk. → هو يجلس على المكتب.
+- She **'s writing** a letter. → هي تكتب رسالة.
 - Is he working today? → هل يعمل اليوم؟
 - What are you doing? → ماذا تفعل؟
 
@@ -661,10 +677,18 @@ Subject + am/is/are + going to + Base Verb
 #### 1. الزمن الماضي البسيط / Past Simple
 نستخدمه للحديث عن الأشياء التي حدثت وانتهت في الماضي!
 
+##### 📌 قاعدة إضافة "ed" لـ الأفعال المنتظمة (Rules for adding "-ed" to regular verbs)
+| الحالة / Case | القاعدة / Rule | أمثلة / Examples |
+|---------------|---------------|------------------|
+| **الحالة 1: الفعل العادي (Most verbs)** | نضيف فقط "ed"! | play → played, walk → walked, work → worked |
+| **الحالة 2: الفعل ينتهي بـ (e)** | نضيف فقط "d"! | dance → danced, like → liked, love → loved |
+| **الحالة 3: الفعل ينتهي بـ (consonant + y)** | نحذف "y" و نضيف "ied"! | study → studied, try → tried, cry → cried |
+| **الحالة 4: الفعل بنمط (Consonant + Vowel + Consonant) و هو فعل قصير (one syllable)** | نضطرب الحرف الأخير ثم نضيف "ed"! | stop → stopped, plan → planned, shop → shopped |
+
 ##### التكوين / Form
 | الفعل / Verb | القاعدة / Rule | أمثلة / Examples |
 |-------------|---------------|-----------------|
-| الأفعال المنتظمة | نضيف "ed" في النهاية! | play → played, walk → walked, work → worked |
+| الأفعال المنتظمة | نضيف "ed" (حسب القواعد السابقة)! | play → played, walk → walked, study → studied, stop → stopped |
 | الأفعال غير المنتظمة | نحتاج لتعلم صيغ الماضي الخاصة بها! | see → saw, eat → ate, go → went, have → had |
 
 ##### الإيجابي / Positive
