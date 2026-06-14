@@ -1,36 +1,71 @@
-# ملخص شامل لدورة اللغة الإنجليزية (المستويات A1 - A2)
+# 🌍 ملخص شامل لدورة اللغة الإنجليزية (المستويات A1 - A2)
 # Complete English Course Summary (Levels A1 - A2)
 
 ---
 
-## 🌐 جدول المحتويات / Table of Contents
-1. [مقدمة / Introduction](#مقدمة--introduction)
-2. [المستوى A1 / Level A1](#المستوى-a1--level-a1)
-   1. [مفردات المستوى A1 / Level A1 Vocabulary](#مفردات-المستوى-a1--level-a1-vocabulary)
-   2. [قواعد المستوى A1 / Level A1 Grammar](#قواعد-المستوى-a1--level-a1-grammar)
-3. [المستوى A2 / Level A2](#المستوى-a2--level-a2)
-   1. [مفردات المستوى A2 / Level A2 Vocabulary](#مفردات-المستوى-a2--level-a2-vocabulary)
-   2. [قواعد المستوى A2 / Level A2 Grammar](#قواعد-المستوى-a2--level-a2-grammar)
+## 📋 جدول المحتويات / Table of Contents
+
+1. [مقدمة واهداف التعلم / Introduction & Learning Objectives](#مقدمة-واهداف-التعلم--introduction--learning-objectives)
+2. [المستوى A1 (المبتدئ) / Level A1 (Beginner)](#المستوى-a1-المبتدئ--level-a1-beginner)
+   - [مفردات المستوى A1 / A1 Vocabulary](#مفردات-المستوى-a1--a1-vocabulary)
+   - [قواعد المستوى A1 / A1 Grammar](#قواعد-المستوى-a1--a1-grammar)
+3. [المستوى A2 (الأساسي) / Level A2 (Elementary)](#المستوى-a2-الأساسي--level-a2-elementary)
+   - [مفردات المستوى A2 / A2 Vocabulary](#مفردات-المستوى-a2--a2-vocabulary)
+   - [قواعد المستوى A2 / A2 Grammar](#قواعد-المستوى-a2--a2-grammar)
 4. [مراجع سريعة / Quick References](#مراجع-سريعة--quick-references)
-   1. [الأرقام / Numbers](#الأرقام--numbers)
-   2. [الألوان / Colors](#الألوان--colors)
-   3. [الأفعال المنتظمة / Regular Verbs](#الأفعال-المنتظمة--regular-verbs)
-   4. [الأفعال غير المنتظمة / Irregular Verbs](#الأفعال-غير-المنتظمة--irregular-verbs)
+   - [الأرقام / Numbers](#الأرقام--numbers)
+   - [الألوان / Colors](#الألوان--colors)
+   - [الأيام والأشهر / Days & Months](#الأيام-والأشهر--days--months)
+   - [الأفعال المنتظمة / Regular Verbs](#الأفعال-المنتظمة--regular-verbs)
+   - [الأفعال غير المنتظمة / Irregular Verbs](#الأفعال-غير-المنتظمة--irregular-verbs)
 
 ---
 
-## مقدمة / Introduction
+## 🎯 مقدمة واهداف التعلم / Introduction & Learning Objectives
+
 ### العربية
-هذا الملف يحتوي على ملخص شامل لجميع مفردات وقواعد دورة اللغة الإنجليزية من المستوى المبتدئ (A1) إلى المستوى الأساسي (A2). تم تنظيم المحتوى بشكل منطقي لتسهيل الوصول إلى المعلومات.
+مرحباً بك في هذا الملخص الشامل لدورة اللغة الإنجليزية من المستوى المبتدئ (A1) إلى المستوى الأساسي (A2)!
+
+**أهداف المستوى A1 (المبتدئ):**
+- التحدث عن نفسك وعائلتك وبيئتك
+- فهم واستخدام الجمل الأساسية والعبارات اليومية
+- التحدث عن الأنشطة اليومية والاهتمامات
+- طرح الأسئلة الأساسية والإجابة عليها
+- استخدام قواعد اللغة الأساسية بثقة
+
+**أهداف المستوى A2 (الأساسي):**
+- زيادة مفرداتك وتعزيز قدرتك على التواصل
+- التحدث عن الماضي والمستقبل
+- المقارنة بين الأشياء والأشخاص
+- إعطاء النصائح والوصف
+- فهم النصوص البسيطة وتكوين الجمل المعقدة قليلاً
+
 ### English
-This file contains a comprehensive summary of all vocabulary and grammar from the English course from Beginner (A1) to Elementary (A2) levels. The content is organized logically for easy access to information.
+Welcome to this complete summary of your English course from Beginner (A1) to Elementary (A2)!
+
+**Level A1 (Beginner) Goals:**
+- Talk about yourself, your family, and your environment
+- Understand and use basic sentences and everyday expressions
+- Talk about daily activities and interests
+- Ask and answer basic questions
+- Use basic grammar rules with confidence
+
+**Level A2 (Elementary) Goals:**
+- Expand your vocabulary and improve your communication
+- Talk about the past and future
+- Compare things and people
+- Give advice and descriptions
+- Understand simple texts and form slightly complex sentences
 
 ---
 
-## المستوى A1 / Level A1
 ---
 
-### مفردات المستوى A1 / Level A1 Vocabulary
+## 📘 المستوى A1 (المبتدئ) / Level A1 (Beginner)
+---
+
+### 📝 مفردات المستوى A1 / A1 Vocabulary
+
 #### الوحدة 1: التحيات والتعارف / Unit 1: Greetings & Introductions
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
@@ -40,9 +75,14 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | Good afternoon! | مساء الخير (بعد الظهر)! |
 | Good evening! | مساء الخير! |
 | Good night! | تصبح على خير! |
-| Goodbye! | وداعاً! |
+| Goodbye! / Bye! | وداعاً! |
 | See you later! | أراك لاحقاً! |
+| See you tomorrow! | أراك غدًا! |
 | Nice to meet you! | سعيد بلقائك! |
+| What's your name? | ما اسمك؟ |
+| My name is ... | اسمي ... |
+| Where are you from? | من أي بلد أنت؟ |
+| I'm from ... | أنا من ... |
 | name | الاسم |
 | age | العمر |
 | nationality | الجنسية |
@@ -64,19 +104,19 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
 | family | عائلة |
-| father | أبي |
-| mother | أمي |
+| father / dad | أبي / بابا |
+| mother / mom | أمي / ماما |
 | brother | أخ |
 | sister | أخت |
-| parents | والدان |
-| grandfather | جد |
-| grandmother | جدة |
+| parents | والدان / والداي |
+| grandfather / grandpa | جد / جدي |
+| grandmother / grandma | جدة / جدةي |
 | son | ابن |
 | daughter | ابنة |
 | uncle | خال / عَم |
 | aunt | خالة / عَمّة |
 | cousin | ابن عَم / ابنة عَم / ابن خال / ابنة خال |
-| my | لي / لي / ... |
+| my | لي / لي / ... (ملكي) |
 | your | لك / لك / ... |
 | his | له |
 | her | لها |
@@ -108,19 +148,19 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | music | موسيقى |
 | wake up | يستيقظ |
 | get up | يقوم من السرير |
-| eat breakfast | يتناول الفطور |
+| eat breakfast / have breakfast | يتناول الفطور |
 | take a shower | يستحم |
 | get dressed | يلبس |
 | go to school | يذهب إلى المدرسة |
 | start school | يبدأ الدراسة |
 | study | يدرس |
-| eat lunch | يتناول الغداء |
+| eat lunch / have lunch | يتناول الغداء |
 | finish school | ينتهي الدراسة |
 | go home | يعود إلى المنزل |
 | do homework | ينجز الواجبات المنزلية |
 | watch TV | يشاهد التلفاز |
 | play | يلعب |
-| eat dinner | يتناول العشاء |
+| eat dinner / have dinner | يتناول العشاء |
 | go to bed | يذهب إلى النوم |
 | Monday | الإثنين |
 | Tuesday | الثلاثاء |
@@ -130,7 +170,7 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | Saturday | السبت |
 | Sunday | الأحد |
 
-#### الوحدة 4: التسوق والملابس / Unit 4: Shopping & Clothes
+#### الوحدة 4: التسوق والملابس والطقس / Unit 4: Shopping, Clothes & Weather
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
 | t-shirt | قميص بسيط |
@@ -160,7 +200,7 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | pink | وردي |
 | orange | برتقالي |
 | purple | بنفسجي |
-| gray | رمادي |
+| gray / grey | رمادي |
 | small (S) | صغير |
 | medium (M) | متوسط |
 | large (L) | كبير |
@@ -169,10 +209,12 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | expensive | غالي |
 | dollar | دولار |
 | cent | سنت |
+| How much is it? / How much are they? | كم سعره؟ / كم سعرها؟ |
 | spring | ربيع |
 | summer | صيف |
 | autumn / fall | خريف |
 | winter | شتاء |
+| What's the weather like today? | كيف هو الطقس اليوم؟ |
 | hot | حار |
 | cold | بارد |
 | warm | دافئ |
@@ -189,7 +231,7 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | reading | قراءة |
 | listening to music | الاستماع إلى الموسيقى |
 | watching TV | مشاهدة التلفاز |
-| playing football | لعب كرة القدم |
+| playing football / soccer | لعب كرة القدم |
 | playing basketball | لعب كرة السلة |
 | swimming | سباحة |
 | dancing | رقص |
@@ -200,26 +242,30 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | going to the cinema | الذهاب إلى السينما |
 | going to the park | الذهاب إلى الحديقة |
 | meeting friends | لقاء الأصدقاء |
-| action | أكشن |
-| comedy | كوميديا |
-| romance | رومانسي |
-| horror | رعب |
-| science fiction | خيال علمي |
-| animated | رسوم متحركة |
-| adventure | مغامرة |
-| drama | دراما |
-| pop | بوب |
-| rock | روك |
-| hip hop | هيب هوب |
-| classical | كلاسيك |
-| jazz | جاز |
-| rap | راب |
+| What do you like doing in your free time? | ماذا تحب أن تفعل في وقتك الفارغ؟ |
+| action (movie) | (فيلم) أكشن |
+| comedy (movie) | (فيلم) كوميديا |
+| romance (movie) | (فيلم) رومانسي |
+| horror (movie) | (فيلم) رعب |
+| science fiction (movie) | (فيلم) خيال علمي |
+| animated (movie) | (فيلم) رسوم متحركة |
+| adventure (movie) | (فيلم) مغامرة |
+| drama (movie) | (فيلم) دراما |
+| pop (music) | (موسيقى) بوب |
+| rock (music) | (موسيقى) روك |
+| hip hop (music) | (موسيقى) هيب هوب |
+| classical (music) | (موسيقى) كلاسيك |
+| jazz (music) | (موسيقى) جاز |
+| rap (music) | (موسيقى) راب |
 | traditional music | موسيقى تقليدية |
 
 ---
 
-### قواعد المستوى A1 / Level A1 Grammar
+### 📐 قواعد المستوى A1 / A1 Grammar
+
 #### 1. الفعل "to be" (يكون)
+التركيب الأساسي لفعل "يكون" هو من أهم أجزاء اللغة الإنجليزية!
+
 ##### الإيجابي / Positive
 | الضمير / Subject | الفعل / Verb | مثال / Example | العربية / Arabic |
 |-------------------|--------------|----------------|------------------|
@@ -229,80 +275,152 @@ This file contains a comprehensive summary of all vocabulary and grammar from th
 | She | is | She is 20 years old. | هي بعمر 20 سنة. |
 | It | is | It is a book. | هذا كتاب. |
 | We | are | We are students. | نحن طلاب. |
-| They | are | They are from Saudi. | هم من السعودية. |
+| They | are | They are from Saudi Arabia. | هم من السعودية. |
 
 ##### الاختصارات / Contractions
-| الكامل / Full | المختصر / Short |
-|---------------|----------------|
-| I am | I'm |
-| You are | You're |
-| He is | He's |
-| She is | She's |
-| It is | It's |
-| We are | We're |
-| They are | They're |
+| الكامل / Full | المختصر / Short | مثال / Example |
+|---------------|----------------|----------------|
+| I am | I'm | I'm a student. |
+| You are | You're | You're from Cairo. |
+| He is | He's | He's 15. |
+| She is | She's | She's my sister. |
+| It is | It's | It's a nice day! |
+| We are | We're | We're hungry. |
+| They are | They're | They're friends. |
 
 ##### السلبي / Negative
-أضف "not" بعد الفعل:
-- I am not a doctor. → أنا لست طبيبًا.
-- He is not from Canada. → هو ليس من كندا.
-- They are not teachers. → هم ليسوا مدرسين.
+**القاعدة:** نضيف كلمة "not" بعد الفعل "to be"!
+- I am **not** a doctor. → أنا لست طبيبًا. (أو I'm not ...)
+- He is **not** from Canada. → هو ليس من كندا. (أو He isn't ...)
+- They are **not** teachers. → هم ليسوا مدرسين. (أو They aren't ...)
 
 ##### الأسئلة / Questions
-ضع الفعل قبل الضمير للأسئلة بنعم/لا:
+**القاعدة:** نضع فعل "to be" أمام الضمير!
 - Am I late? → هل أنا متأخر؟
 - Are you from Morocco? → هل أنت من المغرب؟
 - Is she your sister? → هل هي أختك؟
+- Where are you from? → من أين أنت؟
+- How old is he? → كم عمره؟
 
-#### 2. الزمن المضارع البسيط / Present Simple
+---
+
+#### 2. الأداة (a, an, the) / Articles
+- **a / an (النكرة):** يستخدم مع الأشياء غير المحددة.
+  - استخدم "a" قبل الكلمات التي تبدأ بحرف ساكن (b, c, d, f, etc.): a book, a cat, a car.
+  - استخدم "an" قبل الكلمات التي تبدأ بحرف متحرك (a, e, i, o, u): an apple, an egg, an umbrella.
+  - مثال: I have **a** book. → لدي كتاب.
+  - مثال: She is **an** engineer. → هي مهندسة.
+- **the (المعرفة):** يستخدم مع الأشياء المحددة.
+  - مثال: The book is on the table. → الكتاب على الطاولة.
+  - مثال: The sky is blue. → السماء زرقاء.
+
+---
+
+#### 3. الضمائر المالكة / Possessives
+تستخدم هذه الضمائر لتعرف ملكية الأشياء!
+| الضمير / Subject | الضمير المالك / Possessive | مثال / Example | العربية / Arabic |
+|------------------|---------------------------|----------------|------------------|
+| I | my | This is my book. → هذا كتابي. | لي |
+| You | your | Is this your pen? → هل هذا قلمك؟ | لك |
+| He | his | That is his car. → تلك سيارته. | له |
+| She | her | Her name is Sara. → اسمها سارة. | لها |
+| It | its | The dog is in its bed. → الكلب في سريره. | له / لها |
+| We | our | Our house is big. → منزلنا كبير. | لنا |
+| They | their | Their names are Ali and Omar. → أسماؤهم علي وعمر. | لهم |
+
+---
+
+#### 4. الزمن المضارع البسيط / Present Simple
+نستخدمه للحديث عن الحقائق الثابتة أو العادات اليومية!
+
 ##### الإيجابي / Positive
-- للضمائر (I, you, we, they): نستخدم الفعل الأساسي
-- للضمائر (he, she, it): نضيف "s" أو "es" إلى الفعل
-  - I study English every day. → أنا أدرس الإنجليزية كل يوم.
-  - She goes to school at 8. → هي تذهب إلى المدرسة الساعة 8.
+| القاعدة / Rule | مثال / Example |
+|---------------|----------------|
+| لـ (I, you, we, they): نستخدم الفعل الأساسي! | I study English every day. → أنا أدرس الإنجليزية كل يوم. They play football on Fridays. → هم يلعبون كرة القدم يوم الجمعاء. |
+| لـ (he, she, it): نضيف "s" أو "es" في نهاية الفعل! | She goes to school at 8. → هي تذهب إلى المدرسة الساعة 8. He watches TV every evening. → هو يشاهد التلفاز كل مساء. It rains in winter. → تمطر في الشتاء. |
 
 ##### السلبي / Negative
-- للضمائر (I, you, we, they): نستخدم "don't" + الفعل الأساسي
-- للضمائر (he, she, it): نستخدم "doesn't" + الفعل الأساسي
-  - I don't like math. → أنا لا أحب الرياضيات.
-  - He doesn't watch TV. → هو لا يشاهد التلفاز.
+| القاعدة / Rule | مثال / Example |
+|---------------|----------------|
+| لـ (I, you, we, they): نستخدم "don't" قبل الفعل! | I don't like math. → أنا لا أحب الرياضيات. We don't go to school on Saturdays. → نحن لا نذهب إلى المدرسة يوم السبت. |
+| لـ (he, she, it): نستخدم "doesn't" قبل الفعل! | He doesn't watch TV. → هو لا يشاهد التلفاز. She doesn't like coffee. → هي لا تحب القهوة. |
 
 ##### الأسئلة / Questions
-- للضمائر (I, you, we, they): نستخدم "Do" + الضمير + الفعل الأساسي
-- للضمائر (he, she, it): نستخدم "Does" + الضمير + الفعل الأساسي
-  - Do you like English? → هل تحب الإنجليزية؟
-  - Does she study math? → هل تدرس هي الرياضيات؟
+| القاعدة / Rule | مثال / Example |
+|---------------|----------------|
+| لـ (I, you, we, they): نبدأ بـ "Do"! | Do you like English? → هل تحب الإنجليزية? Do they study at home? → هل يدرسون في المنزل؟ |
+| لـ (he, she, it): نبدأ بـ "Does"! | Does she study math? → هل تدرس هي الرياضيات? Does he like football? → هل يحب هو كرة القدم؟ |
+| **أرأى Wh:** What / Where / When + Do/Does + Subject + Verb? | Where do you live? → أين تسكن؟ When does he go to school? → متى يذهب إلى المدرسة؟ |
 
-#### 3. "Like + -ing"
-نستخدمه للتحدث عن الأشياء التي نحبها:
-- I like reading. → أنا أحب القراءة.
-- She likes swimming. → هي تحب السباحة.
-- They like playing football. → هم يحبون لعب كرة القدم.
+---
 
-#### 4. الزمن المضارع المستمر / Present Continuous
+#### 5. "Like + Verb-ing" / حب فعل شيء
+نستخدمه للتحدث عن الأشياء التي نحب أن نفعلها!
+- I like **reading**. → أنا أحب القراءة.
+- She likes **swimming**. → هي تحب السباحة.
+- They like **playing football**. → هم يحبون لعب كرة القدم.
+- What do you like doing? → ماذا تحب أن تفعل؟
+
+---
+
+#### 6. الزمن المضارع المستمر / Present Continuous
+نستخدمه للحديث عن الأشياء التي تحدث الآن، في هذه اللحظة!
+
 ##### التكوين / Form
 Subject + am/is/are + Verb-ing
-##### الاستخدام / Use
-للتحدث عن الأشياء التي تحدث الآن:
-- I'm reading a book. → أنا أقرأ كتاب الآن.
-- She's listening to music. → هي تستمع إلى الموسيقى الآن.
-- They're playing football. → هم يلعبون كرة القدم الآن.
 
-#### 5. المستقبل مع "Going to"
+##### أمثلة / Examples
+- I **'m reading** a book now. → أنا أقرأ كتاب الآن.
+- She **'s listening** to music. → هي تستمع إلى الموسيقى الآن.
+- They **'re playing** football. → هم يلعبون كرة القدم الآن.
+- Is he working today? → هل يعمل اليوم؟
+- What are you doing? → ماذا تفعل؟
+
+---
+
+#### 7. المستقبل مع "Going to" / Future with "Going to"
+نستخدمه للحديث عن الخطط أو النوايا المستقبلية!
+
 ##### التكوين / Form
 Subject + am/is/are + going to + Base Verb
-##### الاستخدام / Use
-للتحدث عن الخطط المستقبلية:
-- I'm going to watch a movie tonight. → أنا سأشاهد فيلم الليلة.
-- She's going to visit her friend tomorrow. → هي ستزور صديقتها غدًا.
-- We're going to go to the park on Saturday. → سنذهب إلى الحديقة يوم السبت.
+
+##### أمثلة / Examples
+- I **'m going to watch** a movie tonight. → أنا سأشاهد فيلم الليلة.
+- She **'s going to visit** her friend tomorrow. → هي ستزور صديقتها غدًا.
+- We **'re going to go** to the park on Saturday. → سنذهب إلى الحديقة يوم السبت.
+- What are you going to do? → ماذا ستفعل؟
 
 ---
 
-## المستوى A2 / Level A2
+#### 8. "Can / Can't" (القدرة) / Modals (Ability)
+نستخدم "can" للحديث عن الأشياء التي نستطيع أن نفعلها، و"can't" لما لا نستطيع!
+- I **can** swim. → أنا أستطيع السباحة.
+- She **can** speak Arabic. → هي تستطيع التحدث العربية.
+- He **can't** ride a bike. → هو لا يستطيع ركوب الدراجة.
+- Can you play football? → هل تستطيع لعب كرة القدم؟
+
 ---
 
-### مفردات المستوى A2 / Level A2 Vocabulary
+#### 9. حروف الجر للمكان / Prepositions of Place
+| الإنجليزية / English | العربية / Arabic | مثال / Example |
+|----------------------|------------------|----------------|
+| in | في | It is in the box. → هو في الصندوق. |
+| on | على | It is on the table. → هو على الطاولة. |
+| under | تحت | It is under the bed. → هو تحت السرير. |
+| next to / beside | بجانب | It is next to the door. → هو بجانب الباب. |
+| in front of | أمام | It is in front of the house. → هو أمام المنزل. |
+| behind | خلف | It is behind the tree. → هو خلف الشجرة. |
+| between | بين | It is between two chairs. → هو بين كرسيين. |
+
+---
+
+---
+
+## 📙 المستوى A2 (الأساسي) / Level A2 (Elementary)
+---
+
+### 📝 مفردات المستوى A2 / A2 Vocabulary
+
 #### الوحدة 1: المنزل والحي / Unit 1: Home & Neighborhood
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
@@ -340,14 +458,14 @@ Subject + am/is/are + going to + Base Verb
 | carpet / rug | سجادة |
 | street | شارع |
 | road | طريق |
-| park | حديقة |
+| park / garden | حديقة |
 | shop / store | محل / متجر |
 | supermarket | سوبرماركت |
 | bank | بنك |
 | post office | مكتب بريد |
 | hospital | مستشفى |
 | clinic | عيادة |
-| pharmacy | صيدلية |
+| pharmacy / drugstore | صيدلية |
 | restaurant | مطعم |
 | café / coffee shop | مقهى |
 | library | مكتبة |
@@ -393,6 +511,8 @@ Subject + am/is/are + going to + Base Verb
 | salary | راتب |
 | holiday / vacation | إجازة |
 | meeting | اجتماع |
+| What do you do? (job) | ماذا تفعل؟ (الوظيفة) |
+| Where do you work? | أين تعمل؟ |
 
 #### الوحدة 3: السفر والاتجاهات / Unit 3: Travel & Directions
 | الإنجليزية / English | العربية / Arabic |
@@ -405,9 +525,10 @@ Subject + am/is/are + going to + Base Verb
 | ship | سفينة |
 | bike / bicycle | دراجة هوائية |
 | motorcycle | دراجة نارية |
-| taxi | طاكسي |
+| taxi / cab | طاكسي |
 | metro / subway / underground | مترو |
 | tram | ترام |
+| How do you go to school/work? | كيف تذهب إلى المدرسة/العمل؟ |
 | travel | يسافر |
 | trip | رحلة |
 | luggage / baggage | أمتعة |
@@ -415,18 +536,19 @@ Subject + am/is/are + going to + Base Verb
 | passport | جواز سفر |
 | ticket | تذكرة |
 | hotel | فندق |
-| beach | شاطئ |
+| beach / coast | شاطئ / ساحل |
 | mountain | جبل |
 | sea / ocean | بحر / محيط |
 | lake | بحيرة |
 | river | نهر |
 | forest | غابة |
 | desert | صحراء |
+| Excuse me, where is ...? | من فضلك، أين ...؟ |
 | go straight on / go straight ahead | امش مباشرة |
 | turn left | انعطف يساراً |
 | turn right | انعطف يميناً |
 | go past | مر بجانب |
-| cross the road | اعبر الطريق |
+| cross the road / street | اعبر الطريق / الشارع |
 | on the left | على اليسار |
 | on the right | على اليمين |
 | opposite / across from | مقابل |
@@ -458,12 +580,14 @@ Subject + am/is/are + going to + Base Verb
 | finger | إصبع |
 | back | ظهر |
 | chest | صدر |
-| stomach | معدة |
+| stomach / belly | معدة / بطن |
 | heart | قلب |
 | leg | ساق |
 | knee | ركبة |
 | foot (feet) | قدم (أقدام) |
 | toe | إصبع قدم |
+| What's the matter? / What's wrong? | ما الخطب؟ / ما المشكلة؟ |
+| I have a headache. | عندي صداع. |
 | headache | صداع |
 | stomachache | آلام معدة |
 | toothache | آلام أسنان |
@@ -491,6 +615,7 @@ Subject + am/is/are + going to + Base Verb
 | relax | يستريح |
 | medicine / medication | دواء |
 | pill / tablet | حبة دواء / قرص |
+| You should see a doctor! → عليك أن ترى طبيبًا! |
 
 #### الوحدة 5: الهوايات والاهتمامات / Unit 5: Hobbies & Interests
 | الإنجليزية / English | العربية / Arabic |
@@ -514,7 +639,7 @@ Subject + am/is/are + going to + Base Verb
 | fishing | الصيد |
 | shopping | التسوق |
 | collecting things | جمع الأشياء |
-| meeting friends | لقاء الأصدقاء |
+| meeting friends / seeing friends | لقاء الأصدقاء |
 | football / soccer | كرة القدم |
 | basketball | كرة السلة |
 | tennis | تنس |
@@ -531,145 +656,179 @@ Subject + am/is/are + going to + Base Verb
 
 ---
 
-### قواعد المستوى A2 / Level A2 Grammar
-#### 1. الزمن الماضي البسيط / Past Simple
-##### التكوين / Form
-- للأفعال المنتظمة: نضيف "ed" إلى الفعل الأساسي
-- للأفعال غير المنتظمة: نحتاج لتعلم صيغ الماضي
-##### الاستخدام / Use
-للتحدث عن أشياء حدثت وانتهت في الماضي:
-- I visited Alexandria last year. → زرت الإسكندرية السنة الماضية.
-- She didn't go to the party. → لم تذهب هي إلى الحفلة.
-- Did they eat lunch? → هل تناولوا الغداء؟
+### 📐 قواعد المستوى A2 / A2 Grammar
 
-##### أمثلة لأفعال غير منتظمة / Examples of Irregular Verbs
-| الأساسي / Base | الماضي / Past |
-|----------------|--------------|
-| be | was/were |
-| go | went |
-| have | had |
-| do | did |
-| get | got |
-| buy | bought |
-| see | saw |
-| eat | ate |
-| drink | drank |
-| sleep | slept |
+#### 1. الزمن الماضي البسيط / Past Simple
+نستخدمه للحديث عن الأشياء التي حدثت وانتهت في الماضي!
+
+##### التكوين / Form
+| الفعل / Verb | القاعدة / Rule | أمثلة / Examples |
+|-------------|---------------|-----------------|
+| الأفعال المنتظمة | نضيف "ed" في النهاية! | play → played, walk → walked, work → worked |
+| الأفعال غير المنتظمة | نحتاج لتعلم صيغ الماضي الخاصة بها! | see → saw, eat → ate, go → went, have → had |
+
+##### الإيجابي / Positive
+- I **visited** Alexandria last year. → زرت الإسكندرية السنة الماضية.
+- She **ate** breakfast at 7. → هي تناولت الفطور الساعة 7.
+- We **went** to the park yesterday. → ذهبنا إلى الحديقة أمس.
+
+##### السلبي / Negative
+**القاعدة:** نستخدم "didn't" + الفعل الأساسي!
+- She **didn't go** to the party. → لم تذهب هي إلى الحفلة.
+- I **didn't eat** lunch. → لم أتناول الغداء.
+- They **didn't watch** the movie. → لم يشاهدوا الفيلم.
+
+##### الأسئلة / Questions
+**القاعدة:** نبدأ بـ "Did" + الضمير + الفعل الأساسي!
+- Did you eat lunch? → هل تناولت الغداء؟
+- Did they go to the park? → هل ذهبوا إلى الحديقة؟
+- What did you do yesterday? → ماذا فعلت أمس؟
+
+---
 
 #### 2. المقارنات والأعلى / Comparatives & Superlatives
-##### المقارنات / Comparatives
-- للأصفار القصيرة (مقاطع واحدة): نضيف "er"
-  - small → smaller
-  - big → bigger
-- للأصفار الطويلة (أكثر من مقاطع): نستخدم "more" قبل الصفة
-  - beautiful → more beautiful
-- للأصفار غير المنتظمة:
-  - good → better
-  - bad → worse
-  - far → farther
+نستخدمها لمقارنة الأشياء أو الأشخاص!
 
-##### الأعلى / Superlatives
-- للأصفار القصيرة: نضيف "est"
-  - small → smallest
-  - big → biggest
-- للأصفار الطويلة: نستخدم "most" قبل الصفة
-  - beautiful → most beautiful
-- للأصفار غير المنتظمة:
-  - good → best
-  - bad → worst
-  - far → farthest
+##### المقارنات (Comparatives) (بين شيئين)
+| الصفة / Adjective | القاعدة / Rule | مثال / Example |
+|------------------|---------------|----------------|
+| قصيرة (مقاطع واحدة) | نضيف "er" | small → smaller, big → bigger, old → older |
+| طويلة (أكثر من مقاطع) | نستخدم "more" قبل الصفة | beautiful → more beautiful, interesting → more interesting |
+| غير منتظمة | صيغ خاصة! | good → better, bad → worse, far → farther |
 
-**مهم**: نستخدم "the" قبل الأعلى
-- Cairo is the biggest city in Egypt. → القاهرة أكبر مدينة في مصر.
-- The Nile is the longest river in the world. → النيل أطول نهر في العالم.
+**الاستخدام:** Adjective + than
+- Cairo is **bigger than** Alexandria. → القاهرة أكبر من الإسكندرية.
+- This book is **more interesting than** that one. → هذا كتاب أشد إثارة من ذاك.
+- He is **better** at English than me. → هو أفضل مني في الإنجليزية.
+
+##### الأعلى (Superlatives) (بين ثلاثة أو أكثر)
+| الصفة / Adjective | القاعدة / Rule | مثال / Example |
+|------------------|---------------|----------------|
+| قصيرة (مقاطع واحدة) | نضيف "est" | small → smallest, big → biggest, old → oldest |
+| طويلة (أكثر من مقاطع) | نستخدم "most" قبل الصفة | beautiful → most beautiful, interesting → most interesting |
+| غير منتظمة | صيغ خاصة! | good → best, bad → worst, far → farthest |
+
+**مهم:** نستخدم "the" قبل الأعلى!
+- Cairo is **the biggest** city in Egypt. → القاهرة أكبر مدينة في مصر.
+- The Nile is **the longest** river in the world. → النيل أطول نهر في العالم.
+- That is **the best** book I've ever read! → ذلك هو أفضل كتاب قرأته على الإطلاق!
+
+---
 
 #### 3. "There is / There are"
+نستخدمه للحديث عن وجود شيء في مكان ما!
+
 ##### التكوين / Form
-- للنouns المفردة: There is
-- للنouns الجمع: There are
-##### الاستخدام / Use
-للتحدث عن وجود شيء في مكان ما:
-- There is a kitchen in my house. → هناك مطبخ في منزلي.
-- There are two bedrooms. → هناك غرفتا نوم.
-- Is there a park near here? → هل هناك حديقة قريبة من هنا؟
+- للاسم المفرد (singular): There is / There's
+- للاسم الجمع (plural): There are
+
+##### أمثلة / Examples
+- **There is** a kitchen in my house. → هناك مطبخ في منزلي.
+- **There are** two bedrooms. → هناك غرفتا نوم.
+- **Is there** a park near here? → هل هناك حديقة قريبة من هنا؟
+- **Are there** any supermarkets in this area? → هل هناك سوبرماركتات في هذه المنطقة؟
+- **There isn't** a hospital near here. → لا يوجد مستشفى قريب من هنا.
+- **There aren't** any parks. → لا توجد حدائق.
+
+---
 
 #### 4. "Should / Shouldn't" (النصيحة)
+نستخدمه لإعطاء النصائح أو التوصيات!
+
 ##### التكوين / Form
 Subject + should / shouldn't + Base Verb
-##### الاستخدام / Use
-لإعطاء النصائح:
-- You should drink lots of water. → عليك شرب الكثير من الماء.
-- You shouldn't eat too much sugar. → لا يجب أن تأكل الكثير من السكر.
+
+##### أمثلة / Examples
+- You **should** drink lots of water. → عليك شرب الكثير من الماء.
+- You **should** go to bed early. → عليك الذهاب إلى النوم مبكرًا.
+- You **shouldn't** eat too much sugar. → لا يجب أن تأكل الكثير من السكر.
+- You **shouldn't** watch too much TV. → لا يجب أن تشاهد الكثير من التلفاز.
+- **Should** I study more? → هل علي أن أدرس أكثر؟
+
+---
 
 #### 5. "Too / Enough"
-##### "Too"
-يعني "أكثر من اللازم" ويأتي قبل الصفة
-- This bag is too heavy. → هذه الحقيبة ثقيلة جدًا.
+- **Too:** يعني "أكثر من اللازم" ويأتي قبل الصفة!
+  - This bag is **too heavy**. → هذه الحقيبة ثقيلة جدًا.
+  - He is **too young** to drive. → هو صغير جدًا لقيادة السيارة.
+- **Enough:** يعني "كافٍ" ويأتي بعد الصفة أو قبل الاسم!
+  - She's old **enough** to drive. → هي كبيرة كفاية لقيادة السيارة.
+  - I have **enough** money. → لدي مال كافٍ.
 
-##### "Enough"
-يعني "كافٍ" ويأتي بعد الصفة أو قبل الاسم
-- She's old enough to drive. → هي كبيرة كفاية لقيادة السيارة.
-- I have enough money. → لدي مال كافٍ.
+---
 
 #### 6. حالات التواتر / Adverbs of Frequency
+تستخدم هذه الكلمات لتحديد مدى تكرار فعل ما!
+
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
 | always | دائماً |
 | usually | عادةً |
 | often | غالباً |
 | sometimes | أحياناً |
-| rarely | نادراً |
+| rarely / seldom | نادراً |
 | never | أبداً |
 
-**المكان**: تاتي قبل الفعل الرئيسي، وبعد فعل "to be"
-- I always go to school at 8. → أنا أذهب إلى المدرسة دائماً الساعة 8.
-- She is usually tired in the evening. → عادةً تكون هي متعبة في المساء.
-
-#### 7. الحاضر التام (التجارب) / Present Perfect (Experiences)
-##### التكوين / Form
-Subject + have / has + Past Participle
-##### الاستخدام / Use
-للتحدث عن تجارب حياتية دون ذكر وقت محدد:
-- I have visited Paris. → لقد زرت باريس.
-- She has never tried sushi. → لم تحاول هي أكل السوشي أبدًا.
-- Have you ever been to London? → هل زرت لندن من قبل؟
+**المكان:** تاتي قبل الفعل الرئيسي، وبعد فعل "to be"!
+- I **always** go to school at 8. → أنا أذهب إلى المدرسة دائماً الساعة 8.
+- She **is usually** tired in the evening. → عادةً تكون هي متعبة في المساء.
+- They **never** eat fast food. → هم لا يأكلون الوجبات السريعة أبدًا.
 
 ---
 
-## مراجع سريعة / Quick References
-### الأرقام / Numbers
+#### 7. الحاضر التام (التجارب) / Present Perfect (Experiences)
+نستخدمه للحديث عن تجارب حياتية أو أشياء حدثت في الماضي دون ذكر وقت محدد!
+
+##### التكوين / Form
+Subject + have / has + Past Participle (التام)
+
+##### أمثلة / Examples
+- I **have visited** Paris. → لقد زرت باريس.
+- She **has never tried** sushi. → لم تحاول هي أكل السوشي أبدًا.
+- Have you **ever been** to London? → هل زرت لندن من قبل؟
+- We **have lived** here for 5 years. → نعيش هنا منذ 5 سنوات.
+
+---
+
+---
+
+## 📚 مراجع سريعة / Quick References
+
+### 📊 الأرقام / Numbers
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
-| one | واحد |
-| two | اثنان |
-| three | ثلاثة |
-| four | أربعة |
-| five | خمسة |
-| six | ستة |
-| seven | سبعة |
-| eight | ثمانية |
-| nine | تسعة |
-| ten | عشرة |
-| eleven | أحد عشر |
-| twelve | اثنا عشر |
-| thirteen | ثلاثة عشر |
-| fourteen | أربعة عشر |
-| fifteen | خمسة عشر |
-| sixteen | ستة عشر |
-| seventeen | سبعة عشر |
-| eighteen | ثمانية عشر |
-| nineteen | تسعة عشر |
-| twenty | عشرون |
-| thirty | ثلاثون |
-| forty | أربعون |
-| fifty | خمسون |
-| sixty | ستون |
-| seventy | سبعون |
-| eighty | ثمانون |
-| ninety | تسعون |
-| one hundred | مئة |
+| 0 → zero / oh | صفر |
+| 1 → one | واحد |
+| 2 → two | اثنان |
+| 3 → three | ثلاثة |
+| 4 → four | أربعة |
+| 5 → five | خمسة |
+| 6 → six | ستة |
+| 7 → seven | سبعة |
+| 8 → eight | ثمانية |
+| 9 → nine | تسعة |
+| 10 → ten | عشرة |
+| 11 → eleven | أحد عشر |
+| 12 → twelve | اثنا عشر |
+| 13 → thirteen | ثلاثة عشر |
+| 14 → fourteen | أربعة عشر |
+| 15 → fifteen | خمسة عشر |
+| 16 → sixteen | ستة عشر |
+| 17 → seventeen | سبعة عشر |
+| 18 → eighteen | ثمانية عشر |
+| 19 → nineteen | تسعة عشر |
+| 20 → twenty | عشرون |
+| 21 → twenty-one | واحد وعشرون |
+| 30 → thirty | ثلاثون |
+| 40 → forty | أربعون |
+| 50 → fifty | خمسون |
+| 60 → sixty | ستون |
+| 70 → seventy | سبعون |
+| 80 → eighty | ثمانون |
+| 90 → ninety | تسعون |
+| 100 → one hundred / a hundred | مئة |
 
-### الألوان / Colors
+### 🎨 الألوان / Colors
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
 | red | أحمر |
@@ -682,11 +841,40 @@ Subject + have / has + Past Participle
 | pink | وردي |
 | orange | برتقالي |
 | purple | بنفسجي |
-| gray | رمادي |
+| gray / grey | رمادي |
+
+### 📅 الأيام والأشهر / Days & Months
+
+#### الأيام / Days of the Week
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| Monday | الإثنين |
+| Tuesday | الثلاثاء |
+| Wednesday | الأربعاء |
+| Thursday | الخميس |
+| Friday | الجمعة |
+| Saturday | السبت |
+| Sunday | الأحد |
+
+#### الأشهر / Months of the Year
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| January | يناير |
+| February | فبراير |
+| March | مارس |
+| April | أبريل |
+| May | مايو |
+| June | يونيو |
+| July | يوليو |
+| August | أغسطس |
+| September | سبتمبر |
+| October | أكتوبر |
+| November | نوفمبر |
+| December | ديسمبر |
 
 ---
 
-### الأفعال المنتظمة / Regular Verbs
+### 🔤 الأفعال المنتظمة / Regular Verbs
 | الأساسي / Base | المضارع للثالث مفرد / Present (he/she/it) | الماضي / Past | المضارع المستمر / Present Continuous | العربية / Arabic |
 |----------------|---------------------------------------------|--------------|-------------------------------------|------------------|
 | play | plays | played | playing | يلعب |
@@ -712,7 +900,7 @@ Subject + have / has + Past Participle
 
 ---
 
-### الأفعال غير المنتظمة / Irregular Verbs
+### 🔤 الأفعال غير المنتظمة / Irregular Verbs
 | الأساسي / Base | المضارع للثالث مفرد / Present (he/she/it) | الماضي / Past | التام / Past Participle | المضارع المستمر / Present Continuous | العربية / Arabic |
 |----------------|---------------------------------------------|--------------|-----------------------|-------------------------------------|------------------|
 | be | is | was/were | been | being | يكون |
@@ -730,7 +918,6 @@ Subject + have / has + Past Participle
 | take | takes | took | taken | taking | يأخذ |
 | make | makes | made | made | making | يصنع |
 | come | comes | came | come | coming | يأتي |
-| go | goes | went | gone | going | يذهب |
 | write | writes | wrote | written | writing | يكتب |
 | read | reads | read | read | reading | يقرأ |
 | say | says | said | said | saying | يقول |
@@ -759,7 +946,6 @@ Subject + have / has + Past Participle
 | fly | flies | flew | flown | flying | يطير |
 | drive | drives | drove | driven | driving | يقود |
 | ride | rides | rode | ridden | riding | يركب |
-| fly | flies | flew | flown | flying | يطير |
 | forget | forgets | forgot | forgotten | forgetting | ينسى |
 | remember | remembers | remembered | remembered | remembering | يتذكر |
 | feel | feels | felt | felt | feeling | يشعر |
@@ -773,64 +959,33 @@ Subject + have / has + Past Participle
 | draw | draws | drew | drawn | drawing | يرسم |
 | dream | dreams | dreamed / dreamt | dreamed / dreamt | dreaming | يحلم |
 | fight | fights | fought | fought | fighting | يقاتل |
-| forget | forgets | forgot | forgotten | forgetting | ينسى |
-| get | gets | got | got / gotten | getting | يحصل / يأخذ |
-| give | gives | gave | given | giving | يعطي |
-| go | goes | went | gone | going | يذهب |
 | grow | grows | grew | grown | growing | ينمو |
 | hang | hangs | hung / hanged | hung / hanged | hanging | يعلق |
-| hear | hears | heard | heard | hearing | يسمع |
 | hide | hides | hid | hidden | hiding | يخفي |
 | hit | hits | hit | hit | hitting | يضرب |
-| hold | holds | held | held | holding | يحتمل / يمسك |
 | hurt | hurts | hurt | hurt | hurting | يجرح / يصاب |
-| keep | keeps | kept | kept | keeping | يحافظ |
-| know | knows | knew | known | knowing | يعلم / يعرف |
 | lay | lays | laid | laid | laying | يضع |
 | lead | leads | led | led | leading | يقود |
-| learn | learns | learned / learnt | learned / learnt | learning | يتعلم |
-| leave | leaves | left | left | leaving | يغادر |
-| let | lets | let | let | letting | يسمح |
-| lie | lies | lay / lied | lain / lied | lying | يستلقي / يكذب |
-| lose | loses | lost | lost | losing | يخسر |
-| make | makes | made | made | making | يصنع |
 | mean | means | meant | meant | meaning | يعني |
-| meet | meets | met | met | meeting | يلتقي |
 | pay | pays | paid | paid | paying | يدفع |
-| put | puts | put | put | putting | يضع |
-| read | reads | read | read | reading | يقرأ |
-| ride | rides | rode | ridden | riding | يركب |
 | ring | rings | rang | rung | ringing | يقرع / يلقي دعوة |
 | rise | rises | rose | risen | rising | يرتفع |
-| run | runs | ran | run | running | يركض |
-| say | says | said | said | saying | يقول |
-| see | sees | saw | seen | seeing | يرى |
-| sell | sells | sold | sold | selling | يبيع |
 | send | sends | sent | sent | sending | يرسل |
-| set | sets | set | set | setting | يحدد |
 | shake | shakes | shook | shaken | shaking | يهز |
 | show | shows | showed | shown / showed | showing | يظهر |
 | shut | shuts | shut | shut | shutting | يغلق |
 | sing | sings | sang | sung | singing | يغني |
-| sit | sits | sat | sat | sitting | يجلس |
-| sleep | sleeps | slept | slept | sleeping | ينام |
-| speak | speaks | spoke | spoken | speaking | يتحدث |
 | spend | spends | spent | spent | spending | يقضي / ينفق |
-| stand | stands | stood | stood | standing | يقف |
-| swim | swims | swam | swum | swimming | يسبح |
-| take | takes | took | taken | taking | يأخذ |
-| teach | teaches | taught | taught | teaching | يدرّس |
-| tell | tells | told | told | telling | يقول / يروي |
-| think | thinks | thought | thought | thinking | يفكر |
 | throw | throws | threw | thrown | throwing | يرمي |
-| understand | understands | understood | understood | understanding | يفهم |
 | wake | wakes | woke | woken | waking | يستيقظ |
 | wear | wears | wore | worn | wearing | يلبس |
 | win | wins | won | won | winning | يفوز |
-| write | writes | wrote | written | writing | يكتب |
 
 ---
 
-## تهنئات! / Congratulations!
-لقد أكملت المراجعة الشاملة لدورتك في اللغة الإنجليزية! استمر في الممارسة والاستمرار في التعلم. 🎉
-You've completed the full review of your English course! Keep practicing and keep learning! 🎉
+---
+
+## 🎉 تهنئات! / Congratulations!
+لقد أكملت المراجعة الشاملة لدورتك في اللغة الإنجليزية! استمر في الممارسة، واتبع أهدافك، وسوف تكون متحدثًا جيدًا للغة الإنجليزية في وقت قصير! 💪
+
+You've completed the full review of your English course! Keep practicing, follow your goals, and you'll be a good English speaker in no time! 💪
