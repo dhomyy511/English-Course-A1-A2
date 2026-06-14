@@ -1,11 +1,36 @@
-# 🏫 Unit 03: School & Daily Routine
+# 🏫 Unit 03: School & Daily Routine | الوحدة 03: المدرسة والروتين اليومي
 
+---
+
+## 🌐 Table of Contents / جدول المحتويات
+1. [Unit Overview / نظرة عامة على الوحدة](#unit-overview--نظرة-عامة-على-الوحدة)
+2. [Vocabulary / المفردات](#vocabulary--المفردات)
+3. [Grammar - Present Simple / القواعد - المضارع البسيط](#grammar---present-simple--القواعد---المضارع-البسيط)
+4. [Grammar - Telling Time / القواعد - معرفة الوقت](#grammar---telling-time--القواعد---معرفة-الوقت)
+5. [Dialogue - School Routine / محادثة - روتين المدرسة](#dialogue---school-routine--محادثة---روتين-المدرسة)
+6. [Reading - My School Day / قراءة - يومي في المدرسة](#reading---my-school-day--قراءة---يومي-في-المدرسة)
+7. [Writing - My Daily Routine / كتابة - روتيني اليومي](#writing---my-daily-routine--كتابة---روتيني-اليومي)
+8. [Listening - Daily Routine / الاستماع - الروتين اليومي](#listening---daily-routine--الاستماع---الروتين-اليومي)
+9. [Speaking - Talk About Your Routine / التحدث - تحدث عن روتينك](#speaking---talk-about-your-routine--التحدث---تحدث-عن-روتينك)
+10. [Unit Exercises / تمارين الوحدة](#unit-exercises--تمارين-الوحدة)
+11. [Unit Summary / ملخص الوحدة](#unit-summary--ملخص-الوحدة)
+12. [Appendices / ملحقات](#appendices--ملحقات)
+
+---
+
+## Unit Overview / نظرة عامة على الوحدة 📋
+
+### English 🇬🇧
 Learn about school, subjects, and daily activities!
-
-## 📋 Unit Overview
 - **Topic:** School life, routines, time
 - **Grammar:** Present Simple, telling time
 - **Vocabulary:** School, subjects, daily activities
+
+### العربية 🇸🇦
+تعلم عن المدرسة، المواد، والأنشطة اليومية!
+- **الموضوع:** الحياة المدرسية، الروتين، الوقت
+- **القواعد:** المضارع البسيط، معرفة الوقت
+- **المفردات:** المدرسة، المواد، الأنشطة اليومية
 
 ---
 
@@ -320,4 +345,17 @@ Hello! My name is Fatima. I wake up at 7:30. I eat eggs and bread for breakfast.
 
 ---
 
-Next: Go to **Unit 04: Shopping & Clothes**!
+## Navigation / التنقل 🧭
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem; padding: 1rem; border-top: 2px solid #e0e0e0;">
+  <div>
+    <a href="../Unit-02-Family/README.md" style="background-color: #2196F3; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold;">
+      ⬅️ Previous / السابق
+    </a>
+  </div>
+  <div>
+    <a href="../Unit-04-Shopping/README.md" style="background-color: #4CAF50; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold;">
+      Next / التالي ➡️
+    </a>
+  </div>
+</div>

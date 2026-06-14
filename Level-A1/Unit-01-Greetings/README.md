@@ -416,7 +416,7 @@ I like reading books. Nice to meet you!
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem; padding: 1rem; border-top: 2px solid #e0e0e0;">
   <div>
-    <a href="../../README.md" style="background-color: #2196F3; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold;">
+    <a href="../README.md" style="background-color: #2196F3; color: white; padding: 0.75rem 1.5rem; text-decoration: none; border-radius: 0.5rem; font-weight: bold;">
       ⬅️ Previous / السابق
     </a>
   </div>
