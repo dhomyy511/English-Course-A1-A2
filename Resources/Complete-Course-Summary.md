@@ -261,6 +261,52 @@ Welcome to this complete summary of your English course from Beginner (A1) to El
 
 ---
 
+#### الوحدة 6: الخضار والفواكه والحيوانات / Unit 6: Vegetables, Fruits & Animals
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| **الخضار / Vegetables** | |
+| tomato | طماطم |
+| potato | بطاطس |
+| onion | بصل |
+| carrot | جزر |
+| cucumber | خيار |
+| lettuce | خس |
+| bell pepper / capsicum | فلفل رومي |
+| chili pepper | فلفل حار |
+| garlic | ثوم |
+| eggplant / aubergine | باذنجان |
+| zucchini / courgette | كوسة |
+| broccoli | بروكلي |
+| spinach | سبانخ |
+| **الفواكه / Fruits** | |
+| apple | تفاحة |
+| banana | موز |
+| orange | برتقال |
+| lemon | ليمون |
+| strawberry | فراولة |
+| grape | عنب |
+| watermelon | بطيخ |
+| melon | شمام |
+| peach | خوخ |
+| pear | كمثرى |
+| pineapple | أناناس |
+| mango | مانجو |
+| **الحيوانات / Animals** | |
+| dog | كلب |
+| cat | قطة |
+| bird | طائر |
+| fish | سمكة |
+| chicken | دجاجة |
+| cow | بقرة |
+| sheep | خروف / شاة |
+| goat | ماعز |
+| horse | حصان |
+| rabbit | أرنب |
+| duck | بطة |
+| turkey | ديك رومي |
+
+---
+
 ### 📐 قواعد المستوى A1 / A1 Grammar
 
 #### 1. الفعل "to be" (يكون)
@@ -669,6 +715,99 @@ Subject + am/is/are + going to + Base Verb
 | yoga | يوغا |
 | gym / fitness | جيم / لياقة بدنية |
 | martial arts / karate | فنون دفاعية / كاراتيه |
+
+---
+
+#### الوحدة 6: المطاعم والطلبات والوجبات / Unit 6: Restaurants, Orders & Meals
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| **الوجبات / Meals** | |
+| breakfast | فطور |
+| lunch | غداء |
+| dinner / supper | عشاء |
+| snack | وجبة خفيفة |
+| **الطلبات / Orders** | |
+| menu | قائمة الطعام |
+| order (noun/verb) | طلب (اسم/فعل) |
+| waiter | نادل |
+| waitress | نادلة |
+| bill / check | فاتورة |
+| tip | إكرامية |
+| Can I have ...? | ممكن أطلب ...؟ |
+| I'd like ... | أريد ... |
+| Would you like ...? | هل تريد ...؟ |
+| Here you are! | تفضل! |
+| Enjoy your meal! | بالهناء والشفاء! |
+| **أنواع اللحم / Meat Types** | |
+| chicken (meat) | دجاج (لحم) |
+| beef | لحم بقري |
+| lamb / mutton | لحم خروف / شاة |
+| fish (food) | سمك (طعام) |
+| turkey (meat) | لحم ديك رومي |
+| meat | لحم |
+| **أطعمة إضافية / Other Foods** | |
+| rice | أرز |
+| pasta | باستا |
+| bread | خبز |
+| cheese | جبن |
+| butter | زبدة |
+| milk | حليب |
+| yogurt | زبادي |
+| eggs | بيض |
+| juice | عصير |
+| tea | شاي |
+| coffee | قهوة |
+| water | ماء |
+| soup | شوربة |
+| salad | سلطة |
+| sandwich | سندويش |
+| burger / hamburger | برجر |
+| pizza | بيتزا |
+| fries / French fries | بطاطس مقلية |
+| cake | كعكة |
+| ice cream | آيس كريم |
+| chocolate | شوكولاتة |
+| sugar | سكر |
+| salt | ملح |
+
+---
+
+#### الوحدة 7: الرحلات والتخيم / Unit 7: Trips & Camping
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| trip / journey | رحلة |
+| travel agency | وكالة سفريات |
+| ticket | تذكرة |
+| passport | جواز سفر |
+| luggage / baggage | أمتعة |
+| suitcase | حقيبة سفر |
+| backpack | حقيبة ظهر |
+| map | خريطة |
+| guidebook / travel guide | دليل سياحي |
+| camera | كاميرا |
+| **التخيم / Camping** | |
+| tent | خيمة |
+| sleeping bag | كيس نوم |
+| campfire | نار مخيم |
+| backpacking | السفر بحقيبة ظهر |
+| campsite / campground | موقع مخيم |
+| hiking boots / walking boots | حذاء مشي / جبال |
+| torch / flashlight | مصباح يدوي |
+| insect repellent | طارد حشرات |
+| sunscreen / sunblock | واقي شمس |
+| water bottle | قارورة ماء |
+| first aid kit | عِدة إسعافات أولية |
+| **أنواع الرحلات / Trip Types** | |
+| day trip | رحلة يومية |
+| weekend trip | رحلة نهاية الأسبوع |
+| holiday / vacation | إجازة / عطلة |
+| package tour / all-inclusive trip | رحلة شاملة / جولة مرتبة |
+| business trip | رحلة عمل |
+| **الأسئلة الشائعة / Common Questions** | |
+| Where are you going? | إلى أين تذهب؟ |
+| How long are you staying? | كم ستقيم؟ |
+| How was your trip? | كيف كانت رحلتك؟ |
+| Did you have a good time? | هل استمتعت؟ |
 
 ---
 
