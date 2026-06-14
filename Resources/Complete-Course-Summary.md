@@ -755,14 +755,26 @@ Subject + am/is/are + going to + Base Verb
 | fish (food) | سمك (طعام) |
 | turkey (meat) | لحم ديك رومي |
 | meat | لحم |
-| **وصف الطعام / Food Descriptions** | |
+| **وصف الطعام / Food Descriptions & Flavors** | |
 | delicious / tasty | لذيذ |
 | good | جيد |
 | bad / not good | سيء / ليس جيد |
 | sweet | حلو |
 | salty / salted | مالح |
 | sour | حامض |
+| bitter | مر |
 | spicy / hot (food) | حار (طعام) |
+| mild | معتدل (لا يحتوي على حار/ملح كثير) |
+| creamy | كريمي |
+| crispy | مقرمش |
+| chewy | مطاطي (مضغوط) |
+| soft | ناعم |
+| hard | صعب (صلب) |
+| juicy | عصيرى |
+| dry | جاف |
+| greasy / oily | دهني |
+| healthy / nutritious | صحي / مغذي |
+| unhealthy | غير صحي |
 | fresh | طازج |
 | cold | بارد |
 | hot / warm | ساخن / دافئ |
@@ -853,6 +865,53 @@ Subject + am/is/are + going to + Base Verb
 | How long are you staying? | كم ستقيم؟ |
 | How was your trip? | كيف كانت رحلتك؟ |
 | Did you have a good time? | هل استمتعت؟ |
+
+---
+
+#### الوحدة 8: الصفات الشخصية / Unit 8: Personal Traits
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| **المظهر الجسدي / Physical Appearance** | |
+| tall | طويل |
+| short | قصير |
+| of medium height | متوسط الطول |
+| fat / overweight | سمين / زائد الوزن |
+| thin / slim | نحيف / رشيق |
+| young | صغير السن |
+| old | كبير السن |
+| handsome (for men) | وسيم (للرجال) |
+| beautiful / pretty (for women) | جميل / لطيفة (للنساء) |
+| strong | قوي |
+| weak | ضعيف |
+| **الشخصية / Personality** | |
+| kind / nice | طيب / لطيف |
+| friendly | ودّي |
+| shy | خجول |
+| outgoing / sociable | منفتح / اجتماعي |
+| funny / humorous | مضحك / مرح |
+| serious | جادى |
+| quiet / calm | هادئ / ساكن |
+| loud / noisy | صاخب / مزعج |
+| smart / intelligent / clever | ذكي / ذكي |
+| stupid / silly / dumb | غبي / أحمق |
+| hardworking | مجتهد |
+| lazy | كسلان |
+| honest | صادق |
+| dishonest / liar | غير صادق / كاذب |
+| helpful / useful | مفيد / مساعد |
+| polite | مهذب |
+| impolite / rude | غير مهذب / فظ |
+| generous | سخي |
+| stingy / mean | بخيل |
+| brave / courageous | شجاع |
+| cowardly / afraid | جبان / خائف |
+| happy | سعيد |
+| sad | حزين |
+| angry | غاضب |
+| tired | متعب |
+| bored | مشغول بالملل / ممل |
+| excited | متحمس |
+| worried / anxious | قلق / مضطرب |
 
 ---
 
@@ -955,13 +1014,19 @@ Subject + should / shouldn't + Base Verb
 
 ---
 
-#### 5. "Too / Enough"
-- **Too:** يعني "أكثر من اللازم" ويأتي قبل الصفة!
-  - This bag is **too heavy**. → هذه الحقيبة ثقيلة جدًا.
+#### 5. "So / Too / Enough"
+- **So**: يعني "كثير جدًا" أو "بهذا القدر" ويأتي قبل الصفة أو الفعل!
+  - She is **so kind**. → هي طيبة جدًا.
+  - The food is **so delicious**. → الطعام لذيذ جدًا.
+  - He speaks **so fast**. → هو يتحدث سريع جدًا.
+- **Too**: يعني "أكثر من اللازم" ويأتي قبل الصفة!
+  - This bag is **too heavy**. → هذه الحقيبة ثقيلة جدًا (أكثر من اللازم).
   - He is **too young** to drive. → هو صغير جدًا لقيادة السيارة.
-- **Enough:** يعني "كافٍ" ويأتي بعد الصفة أو قبل الاسم!
+- **Enough**: يعني "كافٍ" ويأتي بعد الصفة أو قبل الاسم!
   - She's old **enough** to drive. → هي كبيرة كفاية لقيادة السيارة.
   - I have **enough** money. → لدي مال كافٍ.
+  - Is there **enough** food for everyone? → هل يوجد طعام كافٍ للجميع؟
+  - I'm not tall **enough** to reach the shelf. → أنا لست طويلًا كفاية لأصل إلى الرف.
 
 ---
 
