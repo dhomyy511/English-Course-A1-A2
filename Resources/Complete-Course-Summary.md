@@ -1036,6 +1036,39 @@ Subject + have / has + Past Participle (التام)
 | 90 → ninety | تسعون |
 | 100 → one hundred / a hundred | مئة |
 
+### 🔢 الأرقام المرتبة / Ordinal Numbers
+| الإنجليزية / English | العربية / Arabic |
+|----------------------|------------------|
+| 1st → first | الأول / الأولى |
+| 2nd → second | الثاني / الثانية |
+| 3rd → third | الثالث / الثالثة |
+| 4th → fourth | الرابع / الرابعة |
+| 5th → fifth | الخامس / الخامسة |
+| 6th → sixth | السادس / السادسة |
+| 7th → seventh | السابع / السابعة |
+| 8th → eighth | الثامن / الثامنة |
+| 9th → ninth | التاسع / التاسعة |
+| 10th → tenth | العاشر / العاشرة |
+| 11th → eleventh | الحادي عشر / الحادية عشرة |
+| 12th → twelfth | الثاني عشر / الثانية عشرة |
+| 13th → thirteenth | الثالث عشر / الثالثة عشرة |
+| 14th → fourteenth | الرابع عشر / الرابعة عشرة |
+| 15th → fifteenth | الخامس عشر / الخامسة عشرة |
+| 16th → sixteenth | السادس عشر / السادسة عشرة |
+| 17th → seventeenth | السابع عشر / السابعة عشرة |
+| 18th → eighteenth | الثامن عشر / الثامنة عشرة |
+| 19th → nineteenth | التاسع عشر / التاسعة عشرة |
+| 20th → twentieth | العشرون / العشرون |
+| 21st → twenty-first | الواحد والعشرون / الواحدة والعشرون |
+| 30th → thirtieth | الثلاثون / الثلاثون |
+| 40th → fortieth | الأربعون / الأربعون |
+| 50th → fiftieth | الخمسون / الخمسون |
+| 60th → sixtieth | الستون / الستون |
+| 70th → seventieth | السبعون / السبعون |
+| 80th → eightieth | الثمانون / الثمانون |
+| 90th → ninetieth | التسعون / التسعون |
+| 100th → hundredth | المئة / المئة |
+
 ### 🎨 الألوان / Colors
 | الإنجليزية / English | العربية / Arabic |
 |----------------------|------------------|
@@ -1051,34 +1084,42 @@ Subject + have / has + Past Participle (التام)
 | purple | بنفسجي |
 | gray / grey | رمادي |
 
-### 📅 الأيام والأشهر / Days & Months
+### 📅 الأيام والأشهر والتاريخ / Days, Months & Dates
 
 #### الأيام / Days of the Week
-| الإنجليزية / English | العربية / Arabic |
-|----------------------|------------------|
-| Monday | الإثنين |
-| Tuesday | الثلاثاء |
-| Wednesday | الأربعاء |
-| Thursday | الخميس |
-| Friday | الجمعة |
-| Saturday | السبت |
-| Sunday | الأحد |
+| الإنجليزية / English | الترتيب / Order | العربية / Arabic |
+|----------------------|------------------|------------------|
+| Monday | 1st / الأول | الإثنين |
+| Tuesday | 2nd / الثاني | الثلاثاء |
+| Wednesday | 3rd / الثالث | الأربعاء |
+| Thursday | 4th / الرابع | الخميس |
+| Friday | 5th / الخامس | الجمعة |
+| Saturday | 6th / السادس | السبت |
+| Sunday | 7th / السابع | الأحد |
 
 #### الأشهر / Months of the Year
-| الإنجليزية / English | العربية / Arabic |
-|----------------------|------------------|
-| January | يناير |
-| February | فبراير |
-| March | مارس |
-| April | أبريل |
-| May | مايو |
-| June | يونيو |
-| July | يوليو |
-| August | أغسطس |
-| September | سبتمبر |
-| October | أكتوبر |
-| November | نوفمبر |
-| December | ديسمبر |
+| الإنجليزية / English | الترتيب / Order | العربية / Arabic |
+|----------------------|------------------|------------------|
+| January | 1st / الأول | يناير |
+| February | 2nd / الثاني | فبراير |
+| March | 3rd / الثالث | مارس |
+| April | 4th / الرابع | أبريل |
+| May | 5th / الخامس | مايو |
+| June | 6th / السادس | يونيو |
+| July | 7th / السابع | يوليو |
+| August | 8th / الثامن | أغسطس |
+| September | 9th / التاسع | سبتمبر |
+| October | 10th / العاشر | أكتوبر |
+| November | 11th / الحادي عشر | نوفمبر |
+| December | 12th / الثاني عشر | ديسمبر |
+
+#### كيف تقول التاريخ / How to say the date
+| النوع / Type | المثال / Example | العربية / Arabic |
+|--------------|------------------|------------------|
+| التاريخ البريطاني / British English | the fifteenth of March, two thousand twenty-five | الخامس عشر من مارس، ألفي وخمسة وعشرون |
+| التاريخ الأمريكي / American English | March fifteenth, two thousand twenty-five | مارس الخامس عشر، ألفي وخمسة وعشرون |
+| سؤال عن التاريخ / Question | What's the date today? | ما التاريخ اليوم؟ |
+| سؤال عن اليوم / Question | What day is it today? | أي يوم اليوم؟ |
 
 ---
 
