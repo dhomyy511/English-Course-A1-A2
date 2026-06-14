@@ -14,8 +14,9 @@
    - [قواعد المستوى A2 / A2 Grammar](#قواعد-المستوى-a2--a2-grammar)
 4. [مراجع سريعة / Quick References](#مراجع-سريعة--quick-references)
    - [الأرقام / Numbers](#الأرقام--numbers)
+   - [الأرقام المرتبة / Ordinal Numbers](#الأرقام-المرتبة--ordinal-numbers)
    - [الألوان / Colors](#الألوان--colors)
-   - [الأيام والأشهر / Days & Months](#الأيام-والأشهر--days--months)
+   - [الأيام والأشهر والتاريخ / Days, Months & Dates](#الأيام-والأشهر-التاريخ--days-months-dates)
    - [الأفعال المنتظمة / Regular Verbs](#الأفعال-المنتظمة--regular-verbs)
    - [الأفعال غير المنتظمة / Irregular Verbs](#الأفعال-غير-المنتظمة--irregular-verbs)
 
