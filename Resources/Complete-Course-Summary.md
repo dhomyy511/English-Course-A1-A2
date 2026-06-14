@@ -726,34 +726,64 @@ Subject + am/is/are + going to + Base Verb
 | lunch | غداء |
 | dinner / supper | عشاء |
 | snack | وجبة خفيفة |
-| **الطلبات / Orders** | |
+| **الطلبات / Orders & Questions** | |
 | menu | قائمة الطعام |
 | order (noun/verb) | طلب (اسم/فعل) |
 | waiter | نادل |
 | waitress | نادلة |
 | bill / check | فاتورة |
 | tip | إكرامية |
+| takeaway / to go | للخارج / للمنزل |
+| eat in / for here | للمكان / في المطعم |
+| reservation / booking | حجز |
 | Can I have ...? | ممكن أطلب ...؟ |
-| I'd like ... | أريد ... |
+| I'd like ... / I'll have ... | أريد ... / سأطلب ... |
 | Would you like ...? | هل تريد ...؟ |
+| How do you like your ...? | كيف تحب ...؟ |
+| How would you like your ...? | كيف تريد ...؟ |
+| What would you like to drink? | ماذا تريد أن تشرب؟ |
+| What would you like to eat? | ماذا تريد أن تأكل؟ |
 | Here you are! | تفضل! |
 | Enjoy your meal! | بالهناء والشفاء! |
+| Check, please! | الفاتورة من فضلك! |
+| Could you bring me ..., please? | ممكن تجيب لي ... من فضلك؟ |
 | **أنواع اللحم / Meat Types** | |
 | chicken (meat) | دجاج (لحم) |
 | beef | لحم بقري |
 | lamb / mutton | لحم خروف / شاة |
+| pork | لحم خنزير |
 | fish (food) | سمك (طعام) |
 | turkey (meat) | لحم ديك رومي |
 | meat | لحم |
+| **وصف الطعام / Food Descriptions** | |
+| delicious / tasty | لذيذ |
+| good | جيد |
+| bad / not good | سيء / ليس جيد |
+| sweet | حلو |
+| salty / salted | مالح |
+| sour | حامض |
+| spicy / hot (food) | حار (طعام) |
+| fresh | طازج |
+| cold | بارد |
+| hot / warm | ساخن / دافئ |
+| big / large | كبير |
+| small | صغير |
+| medium | متوسط |
 | **أطعمة إضافية / Other Foods** | |
 | rice | أرز |
+| fried rice | أرز مقلي |
 | pasta | باستا |
+| spaghetti | سباغيتي |
 | bread | خبز |
+| toast / toasted bread | توست / خبز محمص |
 | cheese | جبن |
 | butter | زبدة |
 | milk | حليب |
 | yogurt | زبادي |
 | eggs | بيض |
+| fried eggs | بيض مقلي |
+| scrambled eggs | بيض مخفوق |
+| boiled eggs | بيض مسلوق |
 | juice | عصير |
 | tea | شاي |
 | coffee | قهوة |
@@ -764,11 +794,26 @@ Subject + am/is/are + going to + Base Verb
 | burger / hamburger | برجر |
 | pizza | بيتزا |
 | fries / French fries | بطاطس مقلية |
+| potato chips / crisps | شيبس / بطاطس مقلية مفرومة |
 | cake | كعكة |
+| cookies | كوكيز / بسكويت |
 | ice cream | آيس كريم |
 | chocolate | شوكولاتة |
 | sugar | سكر |
 | salt | ملح |
+| pepper | فلفل أسود |
+| **كيفية تحضير الطعام / How to cook/prep food** | |
+| well done | مطهو جيدًا / كاملًا |
+| medium well | مطهو جيدًا إلى متوسط |
+| medium | مطهو متوسط |
+| medium rare | مطهو متوسط إلى نصف |
+| rare | مطهو نصفًا / نيء تقريبًا |
+| fried | مقلي |
+| boiled | مسلوق |
+| grilled / roasted | مشوي |
+| baked | مطهوة في الفرن |
+| steamed | مطهو بالبخار |
+| raw | نيء |
 
 ---
 
