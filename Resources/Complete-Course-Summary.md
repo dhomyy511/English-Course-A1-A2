@@ -1209,7 +1209,7 @@ Subject + have / has + Past Participle (التام)
 | dance | dances | danced | dancing | يرقص |
 | want | wants | wanted | wanting | يريد |
 | like | likes | liked | liking | يحب |
-| love | loves | loved | loving | يحب (مشعل) |
+| love | loves | loved | loving | يحب بدرجة كبيرة / أُحبّ |
 | need | needs | needed | needing | يحتاج |
 | call | calls | called | calling | يتصل / يدعو |
 
